@@ -16,7 +16,7 @@ function Content(){
         title="Model Y"
         descn="Order Online for Touchless Delivery"
         lbtxt="custom order"
-        rbtxt="existing inventory"
+        rbtxt="Existing inventory"
         bilink="model-y.jpg"
         />
         <Section
