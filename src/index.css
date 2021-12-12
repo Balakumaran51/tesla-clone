@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik&display=swap');
+*{
+  margin:0;
+padding:0;
+font-family:'Rubik', sans-serif;
+box-sizing: border-box;
+width:100%;
+}
+body{
+  width:100%;
+  letter-spacing: 1px;
+  position:absolute;
+  overflow:auto;
+}
+a{
+  text-decoration:none;
+  color: rgb(57,60,65);
+}
+@keyframes bounce {
+0% {transform:translateY(0px)}
+20% {transform: translateY(-4px)}
+70% {transform: translateY(4px)}
+80% {transform: translateY(-2px)}
+90% {transform: translateY(-1px)}
+100%{transform: translateY(2px)}
+}
